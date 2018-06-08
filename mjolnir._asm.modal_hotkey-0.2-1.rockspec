@@ -10,20 +10,20 @@ package = "mjolnir._asm.modal_hotkey"
 --    changing the module's source code.
 --
 --    Note: the version must match the version in the filename.
-version = "0.1-1"
+version = "0.2-1"
 
 -- General metadata:
 
-local url = "github.com/asmagill/mjolnir_asm.modal_hotkey"
+local url = "github.com/asmagill/mjolnir_asm.hydra"
 local desc = "Modal hotkey from Hydra ported to Mjolnir"
 
 -- LuaDist source
 source = {
-  tag = "0.1-1",
+  tag = "0.2-1",
   url = "git://github.com/LuaDist-testing/mjolnir._asm.modal_hotkey.git"
 }
 -- Original source
--- source = {url = "git://" .. url}
+-- source = {url = "git://" .. url, dir = "mjolnir_asm.hydra/modal_hotkey"}
 -- description = {
 --   summary = desc,
 --   detailed = desc,

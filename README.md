@@ -22,8 +22,8 @@ $ luarocks [--tree=mjolnir] install mjolnir._asm.modal_hotkey
 
 ### Local Install
 ~~~bash
-$ git clone https://github.com/asmagill/mjolnir_asm.modal_hotkey
-$ cd mjolnir_asm.modal_hotkey
+$ git clone https://github.com/asmagill/mjolnir_asm.hydra
+$ cd mjolnir_asm.hydra/modal_hotkey
 $ [PREFIX=/usr/local] make install
 ~~~
 
